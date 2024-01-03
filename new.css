@@ -1,0 +1,40 @@
+*{
+    font-family: sans-serif;
+}
+h1{
+   font-size:40px;
+}
+span{
+    color: tomato;
+}
+
+.list{
+    font-display:flex;
+    text-decoration:none;
+
+}
+
+h3{
+    padding:20px;
+}
+
+.more{
+    text-decoration: none;
+    background-color: orange;
+    color: aliceblue;
+    padding: 5px 30px;
+    border-radius: 5px;
+}
+.sec{
+    display: flex;
+}
+.d-one{
+    width: 75%;
+}
+.d-two{
+    width: 25%;
+    padding: 5px 90px 5px 5px;
+    border: 20px solid rgb(114, 111, 111);
+    border-radius:30px;
+    
+}
